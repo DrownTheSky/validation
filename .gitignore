@@ -1,0 +1,5 @@
+# Build folder and support files
+venv/
+__pycache__/
+.vscode
+*.code-workspace

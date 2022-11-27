@@ -1,0 +1,11 @@
+pytest==6.2.4
+pytest-assume==2.4.3
+pytest-html==3.1.1
+pytest-logger==0.5.1
+pytest-repeat==0.9.1
+pytest-sugar==0.9.4
+pytest-timeout==1.4.2
+pytest-xdist==3.0.2
+pytest-ordering==0.6
+pytest-rerunfailures==10.3
+allure-pytest==2.11.1
